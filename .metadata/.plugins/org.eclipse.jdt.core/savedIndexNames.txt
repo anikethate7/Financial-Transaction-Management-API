@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+C:\Users\dell\OneDrive\Documents\SPRING-PRACTICE\Banking\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-2463124329.index
